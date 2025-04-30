@@ -1,2 +1,3 @@
-# Java-JDBC-cursoJavaCompleto
-Repositório dedicado a minha trajetória no curso do Dev Superior aprendizagem sobre manipulação e persistência de dados.
+<h1>Repositório dedicado a minha trajetória durante o curso do Dev Superior 🗃️</h1>
+
+<h2>Manipulação e Persistência de dados</h2>
